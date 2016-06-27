@@ -15,7 +15,7 @@
 ## ====Sample Output====                                                                     ##
 ## Hello, my name is Ben.                                                                    ##
 ## I like Python a lot!                                                                      ##
-## Like, "a lot".                                                                            ##
+## Like, a lot.                                                                              ##
 ## I've made at least 1000 programs!                                                         ##
 ##      *1000*                                                                               ##
 ##                                                                                           ##
