@@ -20,10 +20,6 @@
 ##      *1000*                                                                               ##
 ##                                                                                           ##
 ## OK, maybe not.                                                                            ##
-##                                                                                           ##
-## ====Notes====                                                                             ##
-## print () in the Python 3.x documentation                                                  ##
-##      https://docs.python.org/3/library/functions.html#print                               ##
 ###############################################################################################
 
 # Enter you code here (and delete this comment when you do)
