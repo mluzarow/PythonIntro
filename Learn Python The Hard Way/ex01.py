@@ -6,7 +6,7 @@
 ## In this file you will complete the program requested of you in the exercise. As this is   ##
 ## solely for the purposes of memorization of integral syntax, please don't just copy and    ##
 ## paste the content into this file; rather, type it out into this editor.  Your program     ##
-## should output identically to the sample output listed below.                             ##
+## should output identically to the sample output listed below.                              ##
 ##                                                                                           ##
 ## ====Sample Output====                                                                     ##
 ## Hello World!                                                                              ##
@@ -30,7 +30,7 @@
 ## here to explain inconsistencies between Python 2.x and Python 3.x, and a method for       ##
 ## translating the book's code into Python 3.x.                                              ##
 ##                                                                                           ##
-## In this exercise, we use the "print" keyword.  In Python 3.x, the print statement must    ##
+## In this exercise, we use the print () function.  In Python 3.x, the print function must   ##
 ## have its content enclosed by parenthesis. EG print "hey" should be print ("Hey")          ##
 ###############################################################################################
 
